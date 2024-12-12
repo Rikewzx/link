@@ -1,4 +1,4 @@
-/* Reset e estilo global */
+
 * {
   margin: 0;
   padding: 0;
@@ -36,7 +36,7 @@ a {
   background: linear-gradient(to right, #8B4513, #8B4513);
 }
 
-/* Estilos do header */
+
 header {
   text-align: center;
   margin-bottom: 40px;
@@ -56,7 +56,7 @@ header h1 {
   font-weight: 300;
 }
 
-/* Estilos dos botões de links */
+
 section.botoes-links {
   display: flex;
   flex-direction: column;
@@ -86,7 +86,7 @@ footer a.btn-footer:hover {
   transform: scale(1.05);
 }
 
-/* Estilos do footer */
+
 footer {
   text-align: center;
   margin: 30px;
